@@ -124,7 +124,7 @@ Nexus Tech includes a specialized Telegram ecosystem created and developed by **
 | **NexGame** | [@TheNexGame_bot](https://t.me/TheNexGame_bot) | Games, quizzes and community interactions |
 | **NexWhisper** | [@NexWhisperBot](https://t.me/NexWhisperBot) | Targeted communication inside Telegram groups |
 
-[Explore the detailed Telegram ecosystem →](https://tresor-hontonnou.zone.id/telegram-bots.html)
+[Explore the detailed Telegram ecosystem →](https://nex-telegrambots.vercel.app/ecosystem)
 
 ---
 
