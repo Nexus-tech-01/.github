@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="./assets/nexus-tech-banner.svg" width="100%" alt="Nexus Tech" />
+  <img src="./assets/hontavyr-banner.svg" width="100%" alt="HONTAVYR" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1100&color=25DDF5&center=true&vCenter=true&width=900&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Innovate+%E2%80%A2+Evolve;Software+%E2%80%A2+AI+%E2%80%A2+Cybersecurity+%E2%80%A2+Automation;Building+real+projects+with+real+teams;Growing+talent+through+practice+and+contribution" alt="Nexus Tech typing banner" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1100&color=25DDF5&center=true&vCenter=true&width=900&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Innovate+%E2%80%A2+Evolve;Software+%E2%80%A2+AI+%E2%80%A2+Cybersecurity+%E2%80%A2+Automation;Building+real+projects+with+real+teams;Growing+talent+through+practice+and+contribution" alt="HONTAVYR typing banner" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Nexus-tech-01"><img src="https://img.shields.io/badge/GITHUB-NEXUS_TECH-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Nexus-tech-01"><img src="https://img.shields.io/badge/GITHUB-HONTAVYR-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://t.me/thenexusorigin"><img src="https://img.shields.io/badge/TELEGRAM-NEXUS_ORIGIN-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://chat.whatsapp.com/K6w03Xrne1G6U2eOVtKDqk"><img src="https://img.shields.io/badge/WHATSAPP-JOIN_COMMUNITY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
 ---
 
-## 🌐 About Nexus Tech
+## 🌐 About HONTAVYR
 
 ```yaml
-organization: Nexus Tech
+organization: HONTAVYR
 focus:
   - Software Development
   - Artificial Intelligence
@@ -35,7 +35,7 @@ mission: Turn curiosity into skill, skill into contribution, and contribution in
 principle: Learn by doing. Build with discipline. Grow through merit.
 ```
 
-**Nexus Tech** is a technology organization and community built around learning, collaboration and the creation of useful digital products. We bring together beginners, contributors, developers, specialists and project leaders around structured teams and practical work.
+**HONTAVYR** is a technology organization and community built around learning, collaboration and the creation of useful digital products. We bring together beginners, contributors, developers, specialists and project leaders around structured teams and practical work.
 
 ---
 
@@ -111,7 +111,7 @@ Research and product work around assistants, agents, intelligent automation and 
 
 ## 🤖 Telegram Products
 
-Nexus Tech includes a specialized Telegram ecosystem created and developed by **Trésor HONTONNOU (Tresor562)**. Each product focuses on a clear use case while sharing the same automation and product vision.
+HONTAVYR includes a specialized Telegram ecosystem created and developed by **Trésor HONTONNOU (Tresor562)**. Each product focuses on a clear use case while sharing the same automation and product vision.
 
 | Product | Official page | Official bot | Main role |
 |---|---|---|---|
@@ -186,7 +186,7 @@ Important changes should be reviewed before they reach the main branch. Project 
 
 ---
 
-## 📬 Join or Follow Nexus Tech
+## 📬 Join or Follow HONTAVYR
 
 <div align="center">
   <a href="https://t.me/thenexusorigin"><img src="https://img.shields.io/badge/Follow_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -195,5 +195,5 @@ Important changes should be reviewed before they reach the main branch. Project 
 
 <div align="center">
   <h3>⚡ We are not building a crowd. We are building an organization.</h3>
-  <sub>Nexus Tech • Learn • Build • Innovate • Evolve</sub>
+  <sub>HONTAVYR • Learn • Build • Innovate • Evolve</sub>
 </div>
